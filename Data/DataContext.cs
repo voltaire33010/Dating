@@ -1,4 +1,4 @@
-using DatingApp.API.Migrations;
+//using DatingApp.API.Migrations;
 using Microsoft.EntityFrameworkCore;
 
 namespace DatingApp.API.Models
